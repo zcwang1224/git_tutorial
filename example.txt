@@ -5,3 +5,7 @@ git_tutorial2 edit ...
 git_tutorial edit ...
 222222
 11111
+連猴子都懂的Git命令
+add 修改加入索引
+pull 取得遠端數據庫的內容
+
